@@ -1,1 +1,1 @@
-# medical_appointment_no_show_data_cleaning
+In this project, i cleaned a medical appointment no-show dataset by handling missing data using N/A as placeholders, verified the numbers on the ages, travel time, distance  columns using validation formulas and also eliminated duplicates.
